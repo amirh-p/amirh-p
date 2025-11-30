@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A passionate software developer striving for simple yet elegant designs...</h3>
+<h3 align="center">A software engineer striving for simple yet elegant solutions...</h3>
 
 ###
 
