@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I'm a software engineer striving for simple yet elegant solutions...</h3>
+<h3 align="center">I'm a software engineer striving for simple and elegant solutions...</h3>
 
 ###
 
